@@ -25,7 +25,7 @@ Oleksandr Puriha
 - figma
 - Adobe illustrator
 
-![Commercial Site](http://burenieskvagin.com.ua/)
+[Commercial Site](http://burenieskvagin.com.ua/)
 
 ### Education:
 - State flight academy of Ukraine, ATS, specialist, 2002 - 2007;
