@@ -4,6 +4,7 @@ Oleksandr Puriha
 #### Contacts:
 - tel:. +380 66 798 61 65
 - e-mail: apuriha@gmail.com
+- Skype: @alex_pur85
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleksandr-puriha-abb3a4201/)
 - GitHub: [GitHub](https://github.com/AlexPur1985) 
 
@@ -24,7 +25,7 @@ Oleksandr Puriha
 - figma
 - Adobe illustrator
 
-[site](http://burenieskvagin.com.ua/)
+![Commercial Site](http://burenieskvagin.com.ua/)
 
 ### Education:
 - State flight academy of Ukraine, ATS, specialist, 2002 - 2007;
